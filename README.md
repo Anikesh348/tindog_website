@@ -1,1 +1,1 @@
-Website solely developed for dog dating!!
+TinDog Starting Files
